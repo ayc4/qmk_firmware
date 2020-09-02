@@ -21,4 +21,4 @@ Changes:
 
  Special thanks to @j-inc for the original WPM implementation
 
-![Preview of Oled](https://cdn.discordapp.com/attachments/242588884138065920/750738226108563526/IMG_8354.jpg)
+<img src="https://cdn.discordapp.com/attachments/242588884138065920/750738226108563526/IMG_8354.jpg" width="378" height="504">
